@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI Agents, Full-Stack Development, and Open Source Projects.<br><br>👯 I’m looking to collaborate on AI, MERN Stack, and Open Source Projects.<br><br>🤝 I’m looking for help with System Design, DevOps, and LLM-based Applications.<br><br>🌱 I’m currently learning Advanced DSA, Generative AI, and Cloud Technologies.<br><br>💬 Ask me about C++, Python, Data Structures & Algorithms, Git, GitHub, and AI.<br><br>⚡ Fun fact: I enjoy turning complex problems into simple solutions—and solving LeetCode challenges for fun! 🚀
+🔭 I’m currently working on AI Agents, Full-Stack Development, and Open Source Projects.<br><br>👯 I’m looking to collaborate on AI, MERN Stack, and Open Source Projects.<br><br>🤝 I’m looking for help with System Design, DevOps, and LLM-based Applications.<br><br>🌱 I’m currently learning Advanced DSA, Generative AI, and Cloud Technologies.<br><br>💬 Ask me about C++, Python, Data Structures & Algorithms, Git, GitHub, and AI.<br><br>⚡ Fun fact: I enjoy turning complex problems into simple solutions—and solving LeetCode challenges for fun! 🚀  https://mine-interface2-o.vercel.app/
 
 
 ## 🌐 Socials:
